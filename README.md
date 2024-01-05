@@ -1,4 +1,5 @@
 **Problem Statement**
+
 Given the real time unstructured data of the relevant news article and structured stock data, Investors find it difficult to track and analyze the latest news and data manually in real time and to integrate it with other sources of information to make informed investment decisions
 
 _What?_
